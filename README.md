@@ -15,5 +15,4 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 4. Write the code in notebook and run all in Kaggle’s python IDE.
 5. After executing save the output and submit in competition as .csv file
-6. After submitting, I got accuracy of 0.78229 and my leaderboard ranking is
-2466.
+6. After submitting, I got accuracy of 0.78229 
